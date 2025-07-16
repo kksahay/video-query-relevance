@@ -1,0 +1,352 @@
+[
+  {
+    "start": 0.000000,
+    "end": 4.640000,
+    "text": " So, how does the internet work?"
+  },
+  {
+    "start": 4.640000,
+    "end": 9.080000,
+    "text": " Most of us know how to use the internet without actually understanding how it works, sort"
+  },
+  {
+    "start": 9.080000,
+    "end": 11.080000,
+    "text": " of like electricity in your home."
+  },
+  {
+    "start": 11.080000,
+    "end": 14.960000,
+    "text": " You use it every day, but may not understand the mechanics behind it."
+  },
+  {
+    "start": 14.960000,
+    "end": 20.040000,
+    "text": " And if the electric grid is difficult to understand, then the internet must be impossible, right?"
+  },
+  {
+    "start": 20.040000,
+    "end": 21.440000,
+    "text": " Wrong."
+  },
+  {
+    "start": 21.440000,
+    "end": 25.600000,
+    "text": " In the next few minutes, I'll put you in the top 10% of people who understand how the internet"
+  },
+  {
+    "start": 25.600000,
+    "end": 27.080000,
+    "text": " actually works."
+  },
+  {
+    "start": 27.080000,
+    "end": 31.780000,
+    "text": " For securitycatalyst.com, I'm Aaron Titus."
+  },
+  {
+    "start": 31.780000,
+    "end": 35.560000,
+    "text": " Whenever most people think of the internet, this is what comes to mind."
+  },
+  {
+    "start": 35.560000,
+    "end": 40.760000,
+    "text": " The internet is not a bubble cloud, even in the new age of cloud computing."
+  },
+  {
+    "start": 40.760000,
+    "end": 45.080000,
+    "text": " The whole fuzzy cloud picture was created by people more concerned about job security"
+  },
+  {
+    "start": 45.080000,
+    "end": 47.520000,
+    "text": " than education."
+  },
+  {
+    "start": 47.520000,
+    "end": 49.400000,
+    "text": " This is the internet."
+  },
+  {
+    "start": 49.400000,
+    "end": 52.840000,
+    "text": " The internet is a wire, actually buried in the ground."
+  },
+  {
+    "start": 52.840000,
+    "end": 58.200000,
+    "text": " It might be fiber optics, copper, or occasionally beam to satellites or through cell phone networks,"
+  },
+  {
+    "start": 58.200000,
+    "end": 61.340000,
+    "text": " but the internet is simply a wire."
+  },
+  {
+    "start": 61.340000,
+    "end": 65.840000,
+    "text": " The internet is useful because two computers connected directly to this wire can communicate."
+  },
+  {
+    "start": 65.840000,
+    "end": 71.760000,
+    "text": " A server is a special computer connected directly to the internet, and web pages are files on"
+  },
+  {
+    "start": 71.760000,
+    "end": 74.560000,
+    "text": " that server's hard drive."
+  },
+  {
+    "start": 74.560000,
+    "end": 78.680000,
+    "text": " Every server has a unique internet protocol address or IP address."
+  },
+  {
+    "start": 78.680000,
+    "end": 83.120000,
+    "text": " It's like a postal address, IP addresses help computers find each other."
+  },
+  {
+    "start": 83.120000,
+    "end": 90.240000,
+    "text": " But since 7.2.14.205.100 doesn't exactly roll off the tongue, we also give them names"
+  },
+  {
+    "start": 90.240000,
+    "end": 95.680000,
+    "text": " like google.com, facebook.com or securitycatalyst.com."
+  },
+  {
+    "start": 95.680000,
+    "end": 97.560000,
+    "text": " So this is how it works."
+  },
+  {
+    "start": 97.560000,
+    "end": 103.400000,
+    "text": " Your computer at home is not a server, because it's not connected directly to the internet."
+  },
+  {
+    "start": 103.400000,
+    "end": 107.320000,
+    "text": " Computers you and I use everyday are called clients, because they're connected indirectly"
+  },
+  {
+    "start": 107.320000,
+    "end": 110.600000,
+    "text": " to the internet, through an internet service provider."
+  },
+  {
+    "start": 110.600000,
+    "end": 114.960000,
+    "text": " Here we'll pretend that this is my home laptop and I'm using DSL."
+  },
+  {
+    "start": 114.960000,
+    "end": 119.960000,
+    "text": " Now let's pretend that I want to visit AOL.com, which is coincidentally both a server and"
+  },
+  {
+    "start": 119.960000,
+    "end": 121.640000,
+    "text": " an ISP."
+  },
+  {
+    "start": 121.640000,
+    "end": 128.600000,
+    "text": " I hop onto my laptop with DSL, go through my ISP, onto the internet, and look at AOL.com."
+  },
+  {
+    "start": 128.600000,
+    "end": 133.120000,
+    "text": " My computer connects with AOL.com and I can look at its web pages."
+  },
+  {
+    "start": 133.120000,
+    "end": 137.120000,
+    "text": " Now let's say that I want to send an email to Aunt Ruth."
+  },
+  {
+    "start": 137.120000,
+    "end": 143.000000,
+    "text": " Aunt Ruth has AOL dial up from home and I've got a Gmail account."
+  },
+  {
+    "start": 143.000000,
+    "end": 150.040000,
+    "text": " I log on to Gmail.com and compose a message to Aunt Ruth's email address, auntruth@aowell.com."
+  },
+  {
+    "start": 150.040000,
+    "end": 154.880000,
+    "text": " Once I click send, Gmail.com sends the email to AOL.com."
+  },
+  {
+    "start": 154.880000,
+    "end": 161.080000,
+    "text": " The next day, Aunt Ruth dials into AOL servers and retrieves the email."
+  },
+  {
+    "start": 161.080000,
+    "end": 166.200000,
+    "text": " Whenever an email, picture or web page travels across the internet, computers break the information"
+  },
+  {
+    "start": 166.200000,
+    "end": 169.080000,
+    "text": " into smaller pieces called packets."
+  },
+  {
+    "start": 169.080000,
+    "end": 172.840000,
+    "text": " When information reaches its destination, the packets are reassembled in their original"
+  },
+  {
+    "start": 172.840000,
+    "end": 177.240000,
+    "text": " order to make a picture, email, webpage, or tweet."
+  },
+  {
+    "start": 177.240000,
+    "end": 184.240000,
+    "text": " Okay, so imagine you're at work sitting next to your boss and you're both surfing online."
+  },
+  {
+    "start": 184.240000,
+    "end": 189.000000,
+    "text": " Your boss is doing market research and you're updating your Facebook profile."
+  },
+  {
+    "start": 189.000000,
+    "end": 192.280000,
+    "text": " You're both sending packets back and forth over the internet."
+  },
+  {
+    "start": 192.280000,
+    "end": 197.160000,
+    "text": " But what's to keep your packets from accidentally ending up on your boss's screen?"
+  },
+  {
+    "start": 197.160000,
+    "end": 199.120000,
+    "text": " That could be embarrassing."
+  },
+  {
+    "start": 199.120000,
+    "end": 203.960000,
+    "text": " The solution to that problem is IP addresses and routers."
+  },
+  {
+    "start": 203.960000,
+    "end": 209.320000,
+    "text": " Everything connected directly or indirectly to the internet has an IP address, everything."
+  },
+  {
+    "start": 209.320000,
+    "end": 214.960000,
+    "text": " That includes your computer, servers, cell phones, and all of the equipment in between."
+  },
+  {
+    "start": 214.960000,
+    "end": 219.240000,
+    "text": " Anywhere two or more parts of the internet intersect, there's a piece of equipment called"
+  },
+  {
+    "start": 219.240000,
+    "end": 221.080000,
+    "text": " a router."
+  },
+  {
+    "start": 221.080000,
+    "end": 225.200000,
+    "text": " There's direct your packets around the internet, helping each packet get one step closer to"
+  },
+  {
+    "start": 225.200000,
+    "end": 227.120000,
+    "text": " its destination."
+  },
+  {
+    "start": 227.120000,
+    "end": 231.440000,
+    "text": " Every time you visit a website, upwards of 10 to 15 routers may help your packets find"
+  },
+  {
+    "start": 231.440000,
+    "end": 234.480000,
+    "text": " their way to and from your computer."
+  },
+  {
+    "start": 234.480000,
+    "end": 238.360000,
+    "text": " Imagine each packet as a piece of candy wrapped in several layers."
+  },
+  {
+    "start": 238.360000,
+    "end": 241.720000,
+    "text": " The first layer is your computer's IP address."
+  },
+  {
+    "start": 241.720000,
+    "end": 246.960000,
+    "text": " Your computer sends the packet to the first router which adds its own IP address."
+  },
+  {
+    "start": 246.960000,
+    "end": 251.160000,
+    "text": " Each time the packet reaches a new router, another layer is added until it reaches the"
+  },
+  {
+    "start": 251.160000,
+    "end": 252.360000,
+    "text": " server."
+  },
+  {
+    "start": 252.360000,
+    "end": 257.520000,
+    "text": " Then when the server sends back information, it creates packets with an identical wrapping."
+  },
+  {
+    "start": 257.520000,
+    "end": 261.520000,
+    "text": " As a packet makes its way over the internet back to your computer, each router unwraps"
+  },
+  {
+    "start": 261.520000,
+    "end": 266.360000,
+    "text": " a layer to discover where to send the packet next until it reaches your computer and not"
+  },
+  {
+    "start": 266.360000,
+    "end": 269.120000,
+    "text": " your bosses."
+  },
+  {
+    "start": 269.120000,
+    "end": 272.960000,
+    "text": " And that's how the internet works in five minutes or less, and you're now easily in"
+  },
+  {
+    "start": 272.960000,
+    "end": 276.960000,
+    "text": " the top ten percent of people who understand the basics of the internet."
+  },
+  {
+    "start": 276.960000,
+    "end": 281.360000,
+    "text": " If you found this video helpful, check out securitycatalyst.com for all kinds of ideas"
+  },
+  {
+    "start": 281.360000,
+    "end": 283.880000,
+    "text": " on how to protect your information."
+  },
+  {
+    "start": 283.880000,
+    "end": 284.800000,
+    "text": " I'm Aaron Titus."
+  }
+]

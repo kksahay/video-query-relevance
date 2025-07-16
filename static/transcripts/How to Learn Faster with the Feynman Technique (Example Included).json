@@ -1,0 +1,382 @@
+[
+  {
+    "start": 0.000000,
+    "end": 4.240000,
+    "text": " There's this pretty well-known quote that gets thrown around a lot and it's often attributed to Albert Einstein."
+  },
+  {
+    "start": 4.240000,
+    "end": 8.320000,
+    "text": " And it goes, \"If you can't explain it simply, then you don't understand it well enough.\""
+  },
+  {
+    "start": 8.320000,
+    "end": 12.880000,
+    "text": " Now, whether or not Einstein was the person who actually said this, let's be real, he probably wasn't,"
+  },
+  {
+    "start": 12.880000,
+    "end": 18.240000,
+    "text": " it's still really insightful and reversing it reveals a pretty powerful piece of study advice."
+  },
+  {
+    "start": 18.240000,
+    "end": 20.960000,
+    "text": " If you want to understand something well, explain it."
+  },
+  {
+    "start": 20.960000,
+    "end": 25.040000,
+    "text": " Now, this idea is something I touched on briefly back in my video summary of the study-less"
+  },
+  {
+    "start": 25.040000,
+    "end": 29.120000,
+    "text": " study smart lecture by Dr. Marty Lubbdel, because in that lecture he talked about one of the most"
+  },
+  {
+    "start": 29.120000,
+    "end": 33.200000,
+    "text": " effective study techniques being to teach what you're learning to someone else."
+  },
+  {
+    "start": 33.200000,
+    "end": 37.680000,
+    "text": " So in this video, I wanted to dig deeper into that idea and share with you a step-by-step process"
+  },
+  {
+    "start": 37.680000,
+    "end": 41.920000,
+    "text": " for doing this, which has been called the Feynman technique. Now, this technique is named after the"
+  },
+  {
+    "start": 41.920000,
+    "end": 47.520000,
+    "text": " physicist Richard Feynman, who was in his own right, a great scientist. In fact, back in 1965,"
+  },
+  {
+    "start": 47.520000,
+    "end": 52.000000,
+    "text": " he won a Nobel Prize for his work in quantum electrodynamics, which is something I had to"
+  },
+  {
+    "start": 52.000000,
+    "end": 56.240000,
+    "text": " practice saying a couple of different times, and he contributed to science in a number of different"
+  },
+  {
+    "start": 56.240000,
+    "end": 60.640000,
+    "text": " ways, including the development of what are called Feynman diagrams, which are basically"
+  },
+  {
+    "start": 60.640000,
+    "end": 66.480000,
+    "text": " graphical representations of the math behind how subatomic particles work. But in addition to being"
+  },
+  {
+    "start": 66.480000,
+    "end": 71.200000,
+    "text": " a great scientist, he was also a great teacher and a great explainer. And in fact, one of his"
+  },
+  {
+    "start": 71.200000,
+    "end": 77.040000,
+    "text": " nicknames was the great explainer, because he was able to boil down incredibly complex concepts"
+  },
+  {
+    "start": 77.040000,
+    "end": 81.200000,
+    "text": " and put them in simple language that other people could understand. And that's why he's one of those"
+  },
+  {
+    "start": 81.200000,
+    "end": 86.400000,
+    "text": " great scientists who is also known as a very good teacher. And in fact, even in his own learning,"
+  },
+  {
+    "start": 86.400000,
+    "end": 91.280000,
+    "text": " Feynman was famous for tirelessly working through equations until the concept he was wrangling with"
+  },
+  {
+    "start": 91.280000,
+    "end": 96.560000,
+    "text": " was intuitively easy to understand in his mind. So that's why this technique is named after him,"
+  },
+  {
+    "start": 96.560000,
+    "end": 100.880000,
+    "text": " but you don't have to be a physicist or you don't have to be working on math or science problems to"
+  },
+  {
+    "start": 100.880000,
+    "end": 106.560000,
+    "text": " use this technique, because explaining a concept works to improve your understanding of that concept"
+  },
+  {
+    "start": 106.560000,
+    "end": 111.920000,
+    "text": " in basically any area, be it history or be it math, or be it web development doesn't matter."
+  },
+  {
+    "start": 111.920000,
+    "end": 116.400000,
+    "text": " And it also works for multiple different purposes. If you're shaky out of concept and you want to"
+  },
+  {
+    "start": 116.400000,
+    "end": 121.520000,
+    "text": " quickly improve your understanding, you can use it. But if you already have a pretty confident grasp"
+  },
+  {
+    "start": 121.520000,
+    "end": 126.480000,
+    "text": " of a subject and say you've got a test coming up soon, you can also use it to test your understanding"
+  },
+  {
+    "start": 126.480000,
+    "end": 131.120000,
+    "text": " and challenge your assumptions. As Feynman himself said, the first principle is that you must not"
+  },
+  {
+    "start": 131.120000,
+    "end": 136.080000,
+    "text": " fool yourself. And you are the easiest person to fool. The ultimate way to ensure that you"
+  },
+  {
+    "start": 136.080000,
+    "end": 140.320000,
+    "text": " actually understand all the little nitty gritty details of a concept in your head"
+  },
+  {
+    "start": 140.320000,
+    "end": 145.520000,
+    "text": " is to explain it to someone else or to at least pretend you're doing so. And that is the crux"
+  },
+  {
+    "start": 145.520000,
+    "end": 150.320000,
+    "text": " of the Feynman technique. So let's get into it. To process a four steps and the first step is to"
+  },
+  {
+    "start": 150.320000,
+    "end": 154.800000,
+    "text": " simply get out a piece of paper and write the name of the technique down at the top. And in the"
+  },
+  {
+    "start": 154.800000,
+    "end": 158.320000,
+    "text": " example I filmed here, we're going to use the Pythagorean theorem because it is simple and it"
+  },
+  {
+    "start": 158.320000,
+    "end": 162.240000,
+    "text": " won't get in the way of the actual steps we're going to go through. Step two is to explain the"
+  },
+  {
+    "start": 162.240000,
+    "end": 167.040000,
+    "text": " concept and to do it in simple plain English or French or really whatever language you happen to"
+  },
+  {
+    "start": 167.040000,
+    "end": 170.960000,
+    "text": " speak. But the idea here is to do it in a way that's easy to understand as if you were teaching"
+  },
+  {
+    "start": 170.960000,
+    "end": 176.400000,
+    "text": " someone else. And don't just settle with defining the concept either. Also work through examples and"
+  },
+  {
+    "start": 176.400000,
+    "end": 180.960000,
+    "text": " make sure that you're able to use the concept in practice as well. For step three, identify"
+  },
+  {
+    "start": 180.960000,
+    "end": 185.360000,
+    "text": " any of the areas that you're shaky on after your explanation or identify areas that you got stuck"
+  },
+  {
+    "start": 185.360000,
+    "end": 189.920000,
+    "text": " on which halted your explanation and go back to the source material or go back to your notes or"
+  },
+  {
+    "start": 189.920000,
+    "end": 194.960000,
+    "text": " work through examples until your understanding of these sub areas is just as solid as all the"
+  },
+  {
+    "start": 194.960000,
+    "end": 199.600000,
+    "text": " other areas. And finally step four is to look at your explanation and try to identify any areas"
+  },
+  {
+    "start": 199.600000,
+    "end": 203.840000,
+    "text": " where you've resorted to using technical terms or convoluted language and then challenge yourself"
+  },
+  {
+    "start": 203.840000,
+    "end": 209.200000,
+    "text": " to break down those terms and explain them in simplified easy to understand words. Remember,"
+  },
+  {
+    "start": 209.200000,
+    "end": 213.680000,
+    "text": " the key here is simplicity. The act of explaining a topic as if you were teaching it to somebody"
+  },
+  {
+    "start": 213.680000,
+    "end": 218.720000,
+    "text": " who didn't have the same base assumptions and base knowledge that you have is the ultimate test"
+  },
+  {
+    "start": 218.720000,
+    "end": 222.880000,
+    "text": " of your own knowledge in that subject. And that's pretty much it. That's all there is to the"
+  },
+  {
+    "start": 222.880000,
+    "end": 227.440000,
+    "text": " Feynman technique. Now using this technique is incredibly helpful because it number one helps you"
+  },
+  {
+    "start": 227.440000,
+    "end": 232.640000,
+    "text": " to quickly overview the concept and see where your knowledge is solid. But number two, it helps"
+  },
+  {
+    "start": 232.640000,
+    "end": 237.120000,
+    "text": " you to instantly pinpoint the areas where you're shaky and where you need to do extra work. And"
+  },
+  {
+    "start": 237.120000,
+    "end": 242.000000,
+    "text": " that makes this technique a great first step in reviewing a concept because it's very efficient"
+  },
+  {
+    "start": 242.000000,
+    "end": 246.000000,
+    "text": " and it helps you waste less time. I did want to give you guys one extra suggestion though and it"
+  },
+  {
+    "start": 246.000000,
+    "end": 250.800000,
+    "text": " relates to how you frame your mind going into step four. Instead of just thinking, how can I make"
+  },
+  {
+    "start": 250.800000,
+    "end": 256.160000,
+    "text": " this simple? How can I put it in plain English? Also think, how would I explain this to a kid?"
+  },
+  {
+    "start": 256.160000,
+    "end": 260.800000,
+    "text": " Why? Well, besides asking questions like, can I have another Oreo or can I go watch Dragon Ball Z,"
+  },
+  {
+    "start": 260.800000,
+    "end": 266.800000,
+    "text": " a kid's gonna ask, why? Why does that work? And that's gonna help to challenge your assumptions."
+  },
+  {
+    "start": 266.800000,
+    "end": 271.360000,
+    "text": " For instance, going back to our Pythagorean theorem example, maybe you know the formula,"
+  },
+  {
+    "start": 271.360000,
+    "end": 276.560000,
+    "text": " but a kid would ask you, why does that formula work? Why does the Pythagorean theorem hold as a"
+  },
+  {
+    "start": 276.560000,
+    "end": 282.000000,
+    "text": " rule for all right triangles? And yeah, maybe you understand that intuitively, maybe you can bust"
+  },
+  {
+    "start": 282.000000,
+    "end": 286.800000,
+    "text": " out the proof by rearrangement, but maybe you can't. Maybe you've always just looked at the formula"
+  },
+  {
+    "start": 286.800000,
+    "end": 291.120000,
+    "text": " and taken in at face value, in which case you have some more learning to do. Now speaking of the"
+  },
+  {
+    "start": 291.120000,
+    "end": 294.800000,
+    "text": " Pythagorean theorem, maybe there was a bit too simple of an example for you and you'd like to see"
+  },
+  {
+    "start": 294.800000,
+    "end": 299.440000,
+    "text": " this technique apply to something more complex or something that has nothing to do with math at all."
+  },
+  {
+    "start": 299.440000,
+    "end": 302.880000,
+    "text": " If that's you, in the companion article for this video, I've included a couple of different"
+  },
+  {
+    "start": 302.880000,
+    "end": 307.680000,
+    "text": " examples, one going through Bayes rule, which is a concept and probability theory and statistics,"
+  },
+  {
+    "start": 307.680000,
+    "end": 312.400000,
+    "text": " and one going over the CSS box model, which is related to web development and not related to math"
+  },
+  {
+    "start": 312.400000,
+    "end": 316.000000,
+    "text": " at all, that you can check out. So if you want to see those, you can click the card on screen right"
+  },
+  {
+    "start": 316.000000,
+    "end": 319.600000,
+    "text": " now to get over to the article, or you can find the link down in the description below. Beyond that,"
+  },
+  {
+    "start": 319.600000,
+    "end": 323.280000,
+    "text": " if you enjoyed this video and found it helpful, definitely give it a like to support this channel."
+  },
+  {
+    "start": 323.280000,
+    "end": 327.280000,
+    "text": " And if you have additional tips or ways that you use this technique personally, I would love to hear"
+  },
+  {
+    "start": 327.280000,
+    "end": 330.960000,
+    "text": " from you down in the comments below. Additionally, if you're not subscribed to this channel yet,"
+  },
+  {
+    "start": 330.960000,
+    "end": 334.480000,
+    "text": " you want to get new tips on how to be a more productive student, you can click right there,"
+  },
+  {
+    "start": 334.480000,
+    "end": 338.400000,
+    "text": " subscribe, and you can also click right there if you want to get a free copy of my book on how"
+  },
+  {
+    "start": 338.400000,
+    "end": 342.240000,
+    "text": " to earn better grades. Otherwise, you can click right around there to find another video, which"
+  },
+  {
+    "start": 342.240000,
+    "end": 346.880000,
+    "text": " you'll probably find interesting. Thanks for watching, and I will see you in the next one."
+  }
+]
